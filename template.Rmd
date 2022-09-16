@@ -10,7 +10,7 @@ library(tidyverse)
 
 I'm an R Markdown document! 
 
-# Section 
+# Section 1.0
 
 Here's a **code chunk** that samples from 
 a _normal distribution_:
